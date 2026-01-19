@@ -25,11 +25,11 @@ This mirrors how real-world **Agentic AI systems (AutoGPT, CrewAI, Devin, etc.)*
 
 
 User Input
-↓
+->
 Planner Agent (Task Decomposition using LLM)
-↓
+->
 Executor Agent (Processes steps)
-↓
+->
 Final Output
 
 Graph structure is created using **LangGraph nodes and edges** and visualized using Mermaid.
