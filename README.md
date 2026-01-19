@@ -63,9 +63,9 @@ Graph structure is created using **LangGraph nodes and edges** and visualized us
 ## 📂 Project Structure  
 
 //├── AgentState (TypedDict)//
-//├── planner_node() # Breaks task into steps
-//├── executor_node() # Executes planned steps
-//├── LangGraph workflow
+//n├── planner_node() # Breaks task into steps
+//n├── executor_node() # Executes planned steps
+//n├── LangGraph workflow
 //├── Graph compilation
 //├── Graph visualization
 //└── Final execution
