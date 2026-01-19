@@ -64,8 +64,14 @@ Graph structure is created using **LangGraph nodes and edges** and visualized us
 
 project/
 │
+
+
 ├── AgentState (TypedDict) # Defines shared state
+
+
 ├── planner_node() # Breaks task into steps
+
+
 ├── executor_node() # Executes planned steps
 ├── LangGraph workflow # Node & edge orchestration
 ├── Graph compilation # Compiles the graph
